@@ -1,5 +1,25 @@
 # LTDDNC_BT01_CaiDatMoiTruongLT
 Please click on folder BT01 to open source code
+
+### Requirement:
+1. Write a React Native application with 2 screens:
+   - **IntroScreen**: View yourself introduction in 10 seconds.
+   - **HomeScreen**: View content of HomePage.
+
+2. Automatically switch from IntroScreen to HomeScreen.
+
+---
+
+### Result:
+**Screen 1 (IntroScreen):**
+![IntroScreen](./assets/images/intro-page.png)
+
+**Screen 2 (HomeScreen):**
+![HomeScreen](./assets/images/home-page.png)
+
+---
+
+### Running instructions:
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -46,7 +66,7 @@ yarn ios
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+This is one way to run your app ï¿½ you can also run it directly from within Android Studio and Xcode respectively.
 
 ## Step 3: Modifying your App
 
