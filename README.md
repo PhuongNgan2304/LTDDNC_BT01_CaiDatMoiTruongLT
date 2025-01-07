@@ -1,5 +1,4 @@
 # LTDDNC_BT01_CaiDatMoiTruongLT
-Please click on folder BT01 to open source code
 
 ### Requirement:
 1. Write a React Native application with 2 screens:
